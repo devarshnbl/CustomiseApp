@@ -1,0 +1,12 @@
+.field {
+  margin-bottom: 20px;
+}
+.field input,
+.field textarea,
+.field select {
+  width: 100%;
+  padding: 8px;
+}
+.field button {
+  margin-top: 10px;
+}
